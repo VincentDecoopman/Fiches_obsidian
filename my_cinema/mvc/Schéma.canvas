@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"09a8754416a89f5d","type":"text","text":"Browser","x":-125,"y":-30,"width":250,"height":60,"color":"1"},
+		{"id":"bffeaa8643211971","type":"text","text":"Router","x":60,"y":100,"width":250,"height":60},
+		{"id":"997e35a76ce3edc5","type":"text","text":"Controller","x":-320,"y":100,"width":250,"height":60},
+		{"id":"9b6b7557d333b16a","type":"text","text":"Model","x":-320,"y":240,"width":250,"height":60},
+		{"id":"09f8a01da0e6bda1","type":"text","text":"DB","x":60,"y":240,"width":250,"height":60},
+		{"id":"d40082936713732b","type":"text","text":"View","x":-660,"y":100,"width":250,"height":60},
+		{"id":"d693ad3fd652f6c2","type":"text","text":"User","x":-125,"y":-180,"width":250,"height":60},
+		{"id":"2e7b8c8cf215f39f","type":"file","file":"Fiches_obsidian/my_cinema/mvc/MVC.md","x":400,"y":-120,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"cc9950dedfe2ab59","fromNode":"09a8754416a89f5d","fromSide":"right","toNode":"bffeaa8643211971","toSide":"top"},
+		{"id":"ae983f32b5cf78e3","fromNode":"bffeaa8643211971","fromSide":"left","toNode":"997e35a76ce3edc5","toSide":"right"},
+		{"id":"4233e9f82477d256","fromNode":"997e35a76ce3edc5","fromSide":"top","toNode":"09a8754416a89f5d","toSide":"left"},
+		{"id":"72982c4d8a6a31b2","fromNode":"9b6b7557d333b16a","fromSide":"top","toNode":"997e35a76ce3edc5","toSide":"bottom"},
+		{"id":"2370442c68024f4b","fromNode":"997e35a76ce3edc5","fromSide":"bottom","toNode":"9b6b7557d333b16a","toSide":"top"},
+		{"id":"80bc79ed34c0119e","fromNode":"09f8a01da0e6bda1","fromSide":"left","toNode":"9b6b7557d333b16a","toSide":"right"},
+		{"id":"732fa64fc6fe72c3","fromNode":"9b6b7557d333b16a","fromSide":"right","toNode":"09f8a01da0e6bda1","toSide":"left"},
+		{"id":"6b6c05a1cf29d8b9","fromNode":"d40082936713732b","fromSide":"right","toNode":"997e35a76ce3edc5","toSide":"left"},
+		{"id":"9d2787d2556151e6","fromNode":"997e35a76ce3edc5","fromSide":"left","toNode":"d40082936713732b","toSide":"right"},
+		{"id":"2f4564088ea3e086","fromNode":"09a8754416a89f5d","fromSide":"top","toNode":"d693ad3fd652f6c2","toSide":"bottom"},
+		{"id":"87da7c58d4be7595","fromNode":"d693ad3fd652f6c2","fromSide":"bottom","toNode":"09a8754416a89f5d","toSide":"top"}
+	]
+}
