@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Bootstrap partie2.md",
+                "file": "back/php/laravel/Configurer Laravel et démarrer un nouveau projet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap partie2"
+              "title": "Configurer Laravel et démarrer un nouveau projet"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26169707cd19e152",
@@ -183,10 +182,14 @@
   },
   "active": "f2059fe984e86b1d",
   "lastOpenFiles": [
-    "docker/Bootstrap docker.md",
-    "docker/Bootstrap partie2.md",
+    "docker/Bootstrap_partie2_docker_compose.md",
+    "docker/Bootstrap_partie2_docker compose.md",
     "docker/Rédiger un docker file.md",
+    "back/php/laravel/Configurer Laravel et démarrer un nouveau projet.md",
+    "back/php/laravel",
     "docker/Build ou lancer un docker.md",
+    "docker/Bootstrap partie2 (docker compose).md",
+    "docker/Bootstrap docker.md",
     "my_cinema/mvc/exemple.md",
     "my_cinema/mvc/MVC.md",
     "my_cinema/mvc/Schéma.canvas"
