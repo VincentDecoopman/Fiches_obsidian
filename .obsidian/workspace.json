@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back/php/laravel/Configurer Laravel et démarrer un nouveau projet.md",
+                "file": "back/php/laravel/Serveur et routes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configurer Laravel et démarrer un nouveau projet"
+              "title": "Serveur et routes"
             }
           }
         ]
@@ -182,10 +182,14 @@
   },
   "active": "f2059fe984e86b1d",
   "lastOpenFiles": [
+    "front/js/react",
+    "Pasted image 20260213170636.png",
+    "back/php/laravel/Page de connexion.md",
+    "back/php/laravel/Serveur et routes.md",
+    "back/php/laravel/Configurer Laravel et démarrer un nouveau projet.md",
     "docker/Bootstrap_partie2_docker_compose.md",
     "docker/Bootstrap_partie2_docker compose.md",
     "docker/Rédiger un docker file.md",
-    "back/php/laravel/Configurer Laravel et démarrer un nouveau projet.md",
     "back/php/laravel",
     "docker/Build ou lancer un docker.md",
     "docker/Bootstrap partie2 (docker compose).md",

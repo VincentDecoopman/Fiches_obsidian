@@ -1,3 +1,7 @@
+---
+tags:
+  - Laravel
+---
 # Prérequis :
 Installer PHP et composer, si vous n'avez pas l'un de ces deux outils voici les commandes : 
 Mettre à jours les paquets : 
